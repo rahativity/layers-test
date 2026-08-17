@@ -1,0 +1,9 @@
+{
+  "name": "laocoon-bronze-and-time",
+  "version": "1.0.0",
+  "description": "Laocoön — Bronze and Time landing page",
+  "scripts": {
+    "dev": "npx -y serve -l 3000 .",
+    "start": "npx -y serve -l 3000 ."
+  }
+}
